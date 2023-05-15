@@ -8,3 +8,12 @@ Netife官方交流群：685708349
 - Netife具有数据分析工具，提供包含但不限于`Session Comparer`(会话比较)、`Payload Analysis`(载体自动分析器)等等。  
 - Netife具有数据发送工具，提供HTTP和WS和`Composer`，可以自由调试，且支持更多的自由度。  
 - Netife支持插件包和脚本包，在数据修改层提供`JS`脚本注入，可定制为特定脚本包，在整个软件层面提供`DLL`式插件加载，可极大程度扩展软件。Netife框架支持多语言调用，例如在C++插件中使用原生函数调用JS脚本暴露的命令，极大方便开发。  
+# Netife前端工具  
+- [Netife](https://github.com/Netife/Netife):Netife主仓库  
+- [Netife-Cli](https://github.com/Netife/Netife-cli):Netife本地调试工具  
+- [Netife-SilentScript](https://github.com/Netife/NetifeSlientScript):Netife静默前端  
+# Netife接入相关  
+- [Netife文档](https://github.com/Netife/NetifeDocs):提供Netife开发文档的相关信息  
+- [NetifeC++模板插件](https://github.com/Netife/NetifeCppPluginTemplateV1):提供C++插件开发模板  
+- [Netife扩展组件](https://github.com/Netife/NetifeExtraLibSupport):Netife扩展组件，以gRpc直接接入Netife核心调度器  
+- [NetifeCommunity](https://github.com/Netife/AwesomeNetifeProject):Netife社区项目 
