@@ -12,7 +12,8 @@ Netife官方教程文档地址：[NetifeDocs](https://netife.github.io/NetifeDoc
 # Netife前端工具  
 - [Netife](https://github.com/Netife/Netife):Netife主仓库  
 - [Netife-Cli](https://github.com/Netife/Netife-cli):Netife本地调试工具  
-- [Netife-SilentScript](https://github.com/Netife/NetifeSlientScript):Netife静默前端  
+- [Netife-SilentScript](https://github.com/Netife/NetifeSlientScript):Netife静默前端
+- [NetifePanel](https://github.com/Netife/Netife-Panel):Netife可视化前端  
 # Netife接入相关  
 - [Netife文档](https://github.com/Netife/NetifeDocs):提供Netife开发文档的相关信息  
 - [NetifeC++模板插件](https://github.com/Netife/NetifeCppPluginTemplateV1):提供C++插件开发模板  
